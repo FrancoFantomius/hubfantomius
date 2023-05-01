@@ -1,5 +1,9 @@
-# Fantomius' blog
-All the code for the site [blog.francofantomius.com](blog.francofantomius.com)
+# Hub
+
+- [Blog](blog.francofantomius.com)
+- [Comments](comments.francofantomius.com)
+- [Hub](hub.francofantomius.com)
+
 
 ## Things to do:
 - Use Garamond font
