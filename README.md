@@ -4,9 +4,9 @@
 
 # Hub
 
-- [Blog](blog.francofantomius.com)
-- [Comments](comments.francofantomius.com)
-- [Hub](hub.francofantomius.com)
+- [Blog](https://blog.francofantomius.com)
+- [Comments](https://comments.francofantomius.com)
+- [Hub](https://hub.francofantomius.com)
 
 
 ## Things to do:
